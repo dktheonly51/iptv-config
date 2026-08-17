@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-17T17:53:09.239Z",
+  "lastUpdated": "2026-08-17T17:57:29.871Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -294,14 +294,15 @@
     "agrotv-pe-sd-441",
     "agrobrasiltv-br-sd-443",
     "agrocanal-br-sd-444",
-    "agromais-br-sd-445"
+    "agromais-br-sd-445",
+    "2gb-au-sd-12"
   ],
   "appName": "StreamView HD",
   "appTagline": "LIVE IPTV PLATFORM",
   "customLogoUrl": "",
   "customFaviconUrl": "",
   "themeAccent": "red",
-  "highlightedChannelId": "baywatch-1080p",
+  "highlightedChannelId": "00sreplay-us-sd-0",
   "highlightedChannelCustomTitle": "Baywatch 1080p",
   "highlightedChannelDescription": "Action-packed 90s Malibu beach lifeguard rescues and classic television drama starring Mitch Buchannon, broadcast in 1080p Full HD 24/7.",
   "customBillboardImage": "",
