@@ -1,7 +1,10 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-23T17:16:18.203Z",
-  "hiddenChannelIds": [],
+  "lastUpdated": "2026-08-23T17:36:52.145Z",
+  "hiddenChannelIds": [
+    "00sreplay-us-sd-0",
+    "2gb-au-sd-12"
+  ],
   "appName": "StreamView HD",
   "appTagline": "LIVE IPTV PLATFORM",
   "customLogoUrl": "",
