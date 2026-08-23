@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-23T20:05:23.032Z",
+  "lastUpdated": "2026-08-23T20:08:32.176Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -451,7 +451,7 @@
     "arastv-tr-sd-840",
     "arabicatv-lb-sd-836"
   ],
-  "appName": "StreamView HD",
+  "appName": "StreamView",
   "appTagline": "15 000 CHANNEL LIVE IPTV PLATFORM",
   "customLogoUrl": "",
   "customFaviconUrl": "",
