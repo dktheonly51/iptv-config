@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-30T07:04:16.938Z",
+  "lastUpdated": "2026-09-03T11:36:47.250Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -449,7 +449,8 @@
     "archivos-extraterrestres-844-844",
     "arboldevidatv-sv-sd-843",
     "arastv-tr-sd-840",
-    "arabicatv-lb-sd-836"
+    "arabicatv-lb-sd-836",
+    "azteca-uno--1-hora--720p--1130-1130"
   ],
   "appName": "StreamView HD",
   "appTagline": "15 000 CHANNEL LIVE TV PLATFORM",
@@ -462,48 +463,7 @@
   "customBillboardImage": "",
   "enableAnnouncementBar": false,
   "announcementText": "🔥 Premium Reseller Edition: Fully White-Label IPTV Web App",
-  "customPlaylists": [
-    {
-      "id": "custom-1786986349219",
-      "name": "News",
-      "type": "m3u_url",
-      "url": "https://iptv-org.github.io/iptv/categories/news.m3u",
-      "m3uContent": "",
-      "enabled": true,
-      "channelCount": 943,
-      "addedAt": 1786986349219
-    },
-    {
-      "id": "custom-1786986411055",
-      "name": "Sports",
-      "type": "m3u_url",
-      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
-      "m3uContent": "",
-      "enabled": true,
-      "channelCount": 459,
-      "addedAt": 1786986411055
-    },
-    {
-      "id": "custom-1786986483045",
-      "name": "Music",
-      "type": "m3u_url",
-      "url": "https://iptv-org.github.io/iptv/categories/music.m3u",
-      "m3uContent": "",
-      "enabled": true,
-      "channelCount": 729,
-      "addedAt": 1786986483045
-    },
-    {
-      "id": "custom-1786986565242",
-      "name": "Movies",
-      "type": "m3u_url",
-      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
-      "m3uContent": "",
-      "enabled": true,
-      "channelCount": 733,
-      "addedAt": 1786986565242
-    }
-  ],
+  "customPlaylists": [],
   "curatedRows": {
     "featuredTitle": "Featured Live Broadcasts",
     "featuredChannelIds": [],
