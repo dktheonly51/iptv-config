@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-04T09:07:50.742Z",
+  "lastUpdated": "2026-09-04T10:06:10.339Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -452,15 +452,15 @@
     "arabicatv-lb-sd-836",
     "azteca-uno--1-hora--720p--1130-1130"
   ],
-  "appName": "StreamView HD",
-  "appTagline": "15 000 CHANNEL LIVE TV PLATFORM",
+  "appName": "StreamFlix HD",
+  "appTagline": "LIVE IPTV PLATFORM",
   "customLogoUrl": "",
   "customFaviconUrl": "",
   "themeAccent": "red",
-  "highlightedChannelId": "4k-travel-tv--1080p--49-49",
-  "highlightedChannelCustomTitle": "4K Travel TV (1080p)",
+  "highlightedChannelId": "baywatch-1080p",
+  "highlightedChannelCustomTitle": "Baywatch 1080p",
   "highlightedChannelDescription": "Action-packed 90s Malibu beach lifeguard rescues and classic television drama starring Mitch Buchannon, broadcast in 1080p Full HD 24/7.",
-  "customBillboardImage": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1920&q=80",
+  "customBillboardImage": "",
   "enableAnnouncementBar": false,
   "announcementText": "🔥 Premium Reseller Edition: Fully White-Label IPTV Web App",
   "customPlaylists": [],
