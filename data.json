@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-04T16:34:02.821Z",
+  "lastUpdated": "2026-09-04T16:44:22.310Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -457,10 +457,10 @@
   "customLogoUrl": "",
   "customFaviconUrl": "",
   "themeAccent": "red",
-  "highlightedChannelId": "00sreplay-us-sd-0",
-  "highlightedChannelCustomTitle": "Baywatch 1080p",
-  "highlightedChannelDescription": "Action-packed 90s Malibu beach lifeguard rescues and classic television drama starring Mitch Buchannon, broadcast in 1080p Full HD 24/7.",
-  "customBillboardImage": "",
+  "highlightedChannelId": "4evermusic-ua-sd-44",
+  "highlightedChannelCustomTitle": "4ever Music (1080p)",
+  "highlightedChannelDescription": "Music channel that plays great music ",
+  "customBillboardImage": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1920&q=80",
   "enableAnnouncementBar": false,
   "announcementText": "🔥 Premium Reseller Edition: Fully White-Label IPTV Web App",
   "customPlaylists": [],
