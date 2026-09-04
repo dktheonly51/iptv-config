@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-03T14:10:12.294Z",
+  "lastUpdated": "2026-09-04T07:45:28.687Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -461,7 +461,7 @@
   "highlightedChannelCustomTitle": "Baywatch 1080p",
   "highlightedChannelDescription": "Action-packed 90s Malibu beach lifeguard rescues and classic television drama starring Mitch Buchannon, broadcast in 1080p Full HD 24/7.",
   "customBillboardImage": "",
-  "enableAnnouncementBar": true,
+  "enableAnnouncementBar": false,
   "announcementText": "🔥 Premium Reseller Edition: Fully White-Label IPTV Web App",
   "customPlaylists": [],
   "curatedRows": {
