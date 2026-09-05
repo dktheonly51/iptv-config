@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-04T20:07:49.875Z",
+  "lastUpdated": "2026-09-05T18:58:43.971Z",
   "hiddenChannelIds": [
     "00sreplay-us-sd-0",
     "1plus1international-ua-sd-1",
@@ -450,7 +450,11 @@
     "arboldevidatv-sv-sd-843",
     "arastv-tr-sd-840",
     "arabicatv-lb-sd-836",
-    "azteca-uno--1-hora--720p--1130-1130"
+    "azteca-uno--1-hora--720p--1130-1130",
+    "2gb-au-sd-13",
+    "123tv-de-sd-5",
+    "2m-ma-sd-14",
+    "2mmonde-ma-sd-15"
   ],
   "appName": "StreamView HD",
   "appTagline": "15 000 CHANNEL LIVE TV PLATFORM",
