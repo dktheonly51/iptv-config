@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-11T13:01:27.881Z",
+  "lastUpdated": "2026-09-12T20:40:57.558Z",
   "hiddenChannelIds": [
     "1plus1international-ua-sd-1",
     "1tv-ge-sd-8",
@@ -608,7 +608,19 @@
     "belarus5-by-hd-1377",
     "bellatormma-us-sd-1382",
     "billiardtv-us-sd-1497",
-    "brondbytv-se-dk-1670"
+    "brondbytv-se-dk-1670",
+    "3aw-au-sd-29",
+    "4evercinema-ua-sd-42",
+    "6sotok-ua-sd-59",
+    "6pr-au-sd-58",
+    "6ter-fr-sd-60",
+    "7gold-it-sd-64",
+    "8tv-my-sd-76",
+    "8xm-pk-sd-77",
+    "15plusmusic-ru-hd-103",
+    "20-it-sd-108",
+    "50canale-it-sd-141",
+    "90skidstv2-us-sd-149"
   ],
   "appName": "StreamView HD",
   "appTagline": "15 000 CHANNEL LIVE TV PLATFORM",
