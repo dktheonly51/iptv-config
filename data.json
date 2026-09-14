@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-14T07:11:03.587Z",
+  "lastUpdated": "2026-09-14T10:27:48.903Z",
   "hiddenChannelIds": [
     "1plus1international-ua-sd-1",
     "1tv-ge-sd-8",
@@ -1340,7 +1340,20 @@
       "cityedenkinoaction-ru-hd-10940",
       "fenikspluskino-ru-sd-10979",
       "chcaction-cn-sd-10997",
-      "jiangsumoviechannel-cn-sd-11022"
+      "jiangsumoviechannel-cn-sd-11022",
+      "afrafilm-ir-sd-372",
+      "allocine-cm-sd-556",
+      "asianetmovies-in-hd-824",
+      "cinesony-us-sd-2107",
+      "abnbiblemovieschannel-us-sd-289",
+      "ebonytvbylionsgate-us-sd-2817",
+      "frightflix-us-sd-3364",
+      "grandcinema-tr-sd-3588",
+      "mycinemaeurope-ch-sd-5472",
+      "mytimemovienetwork-uk-sd-5486",
+      "newkmovies-us-sd-5670",
+      "nost-us-sd-5850",
+      "pocketfilms-in-sd-6813"
     ],
     "scienceTitle": "Science & Discovery",
     "scienceChannelIds": [],
